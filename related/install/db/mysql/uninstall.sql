@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS b_related_related_product;
